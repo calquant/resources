@@ -15,3 +15,6 @@ A list of useful resources for designing, implementing and evaluating quantitati
 
 - [Alphalens: Open-Source Alpha Analysis](https://www.quantopian.com/posts/alphalens-a-new-tool-for-analyzing-alpha-factors) Quantopian (2016)
 	- Alphalens is a Python package for performance analysis of alpha factors which can be used to create cross-sectional equity algos.
+
+- [Quant Finance Reading List](https://www.quantstart.com/articles/Quantitative-Finance-Reading-List) Quantstart (2016)
+    - The lists cover general quant finance, careers guides, interview prep, quant trading, mathematics, numerical methods and programming in C++, Python, Excel, MatLab and R.
